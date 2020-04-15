@@ -1,6 +1,6 @@
 # Introduction to neural networks (Geek University track)
 
-Contains basic concept for DL methods wiht examples
+Contains basic concept for DL methods wiht examples:
 
 1. Iris net. full layered NN on Iris dataset via numpy
 
