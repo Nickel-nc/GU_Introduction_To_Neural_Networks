@@ -2,12 +2,11 @@
 
 Contains basic concept for DL methods wiht examples:
 
-1. Iris net. full layered NN on Iris dataset via numpy
+## 1. Iris net. full layered NN on Iris dataset via numpy
 
-```bibtex
-python Iris_net.ipynb
-```
-2. MNIST classification: full layers, conv and comb parameters via keras
+`python Iris_net.ipynb`
+
+## 2. MNIST classification: full layers, conv and comb parameters via keras
 
 Also contains convolutional LSTM example to predict the next frame of an artificially generated movie which contains moving squares
 ```bibtex
@@ -20,9 +19,8 @@ Also contains convolutional LSTM example to predict the next frame of an artific
 ```
 <img src="figures/Conv_LSTM_result.gif" alt="Conv LSTM example" width="400"/>
 
-```bibtex
-python MNIST_classifier.ipynb
-```
+`python MNIST_classifier.ipynb`
+
 
 
 
