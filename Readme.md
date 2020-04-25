@@ -1,6 +1,6 @@
 # Introduction to neural networks (Geek University track)
 
-Contains basic concept for DL methods wiht examples:
+Contains basic concepts, architectures and study cases for Deep learning methods:
 
 #### 1. Iris net. full layered NN on Iris dataset via numpy 
 `python Iris_net.ipynb`
@@ -9,7 +9,10 @@ Contains basic concept for DL methods wiht examples:
 #### 2. MNIST classification: full layers, conv and comb parameters via keras
 `python MNIST_classifier.ipynb`
 
-Also contains convolutional LSTM example to predict the next frame of an artificially generated movie which contains moving squares
+#### 3. Keras elements: full layers, MNIST trainings, convolutional LSTM
+`keras_elements.ipynb`
+
+Convolutional LSTM example predicts next frame of an artificially generated movie which contains moving squares
 ```bibtex
 # Artificial data generation:
 # Generate movies with 3 to 7 moving squares inside.
