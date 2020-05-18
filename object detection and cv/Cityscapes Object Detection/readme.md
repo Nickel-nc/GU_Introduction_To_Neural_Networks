@@ -3,4 +3,4 @@
 
 `model graph:`
 
-<img src="TB_graph.PNG" alt="tensorboard model graph" width="800"/>
+<img src="figures/TB_graph.PNG" alt="tensorboard model graph" width="800"/>
