@@ -8,3 +8,11 @@
 
 <img src="figures/gpu load.PNG" alt="gpu load" width="800"/>
 
+Results:
+
+example
+<img src="figures/example.PNG" alt="task load" width="800"/>
+example modified
+<img src="figures/example modified.PNG" alt="task load" width="800"/>
+
+
