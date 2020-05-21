@@ -11,7 +11,9 @@
 Results:
 
 example
+
 <img src="figures/example.png" alt="task load" width="800"/>
+
 example modified
 <img src="figures/example modified.png" alt="task load" width="800"/>
 
