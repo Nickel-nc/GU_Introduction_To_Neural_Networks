@@ -26,3 +26,22 @@ Predicts next frame of an artificially generated movie which contains moving squ
 ```
 
 <img src="figures/Conv_LSTM_result.gif" alt="Conv LSTM example" width="400"/>
+
+### - [LSTM Text Generation samplesConvolutional LSTM](https://github.com/Nickel-nc/GU_Introduction_To_Neural_Networks/tree/master/LSTM%20models)
+
+## - [Computer vision concepts](https://github.com/Nickel-nc/GU_Introduction_To_Neural_Networks/tree/master/object%20detection%20and%20cv)
+
+### Contents:
+
+### - [GAN tensorflow example](https://github.com/Nickel-nc/GU_Introduction_To_Neural_Networks/blob/master/object%20detection%20and%20cv/GAN%20tf%20example/gan%20example.ipynb)
+
+<img src="object detection and cv/GAN tf example/figures/example.png" alt="task load" width="800"/>
+
+### - [GAN image generation with MNIST dataset](https://github.com/Nickel-nc/GU_Introduction_To_Neural_Networks/blob/master/object%20detection%20and%20cv/GAN%20MNIST%20image%20generator/GAN%20Image%20generator.ipynb)
+
+<img src="object detection and cv/GAN MNIST image generator/figures/gan_mnist.png" alt="task load" width="800"/>
+
+
+
+
+
