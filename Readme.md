@@ -8,7 +8,7 @@ basic concepts, architectures and study cases for Deep learning methods:
 
 ### - [MNIST classification: full layers, conv and comb parameters via keras](https://github.com/Nickel-nc/GU_Introduction_To_Neural_Networks/blob/master/FCN%2C%20CNN/MNIST_classifier.ipynb)
 
-<img src="figures/4.PNG" alt="handwriting 1" width="400"/>, 
+<img src="figures/3.PNG" alt="handwriting 1" width="400"/>, 
 <img src="figures/2.PNG" alt="handwriting 1" width="400"/>
 
 ### - [Simple LSTM parameters dependances](https://github.com/Nickel-nc/GU_Introduction_To_Neural_Networks/blob/master/LSTM%20models/LSTM_airplane_dataset.ipynb)
